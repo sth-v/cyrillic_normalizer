@@ -1,0 +1,9 @@
+.idea
+.claude
+*__pycache__
+*.DS_Store*
+.venv
+
+.mcp.json
+poetry.lock
+claude-memory
