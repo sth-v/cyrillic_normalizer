@@ -13,23 +13,6 @@ The Cyrillic Normalizer solves a common problem in text processing: handling vis
 - **Simple API**: Two main functions for bidirectional conversion
 - **Zero Dependencies**: Lightweight implementation using only Python standard library
 
-## Supported Character Mappings
-
-The library handles the following homoglyph pairs:
-
-| Latin | Cyrillic | Description |
-|-------|----------|-------------|
-| A/a   | А/а      | Capital/lowercase A |
-| B     | В        | Capital B |
-| E/e   | Е/е      | Capital/lowercase E |
-| K/k   | К/к      | Capital/lowercase K |
-| M     | М        | Capital M |
-| O/o   | О/о      | Capital/lowercase O |
-| P/p   | Р/р      | Capital/lowercase P |
-| C/c   | С/с      | Capital/lowercase C |
-| T     | Т        | Capital T |
-| X/x   | Х/х      | Capital/lowercase X |
-
 ## Installation
 
 ```bash
